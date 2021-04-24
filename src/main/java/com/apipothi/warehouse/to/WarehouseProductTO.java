@@ -1,5 +1,11 @@
 package com.apipothi.warehouse.to;
-
+/*
+ * Author    : API POTHI
+ * YouTube   : https://www.youtube.com/apipothi
+ * Web Site  : http://apipothi.com/
+ * Play List : MICROSERVICE-SPRINGBOOT
+ * JAVA      : 1.8
+*/
 public class WarehouseProductTO {
 
 	private int id;
